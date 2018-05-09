@@ -1,3 +1,10 @@
 bns/bns.config
 bns/classes
 bns/tools/classes
+
+# compiled folder (run `ant dist`)
+bns/dist
+
+# created during `ant dist`
+bns/de/botsnscouts/tiles/tile.index
+bns/de/botsnscouts/conf/log4j.conf
