@@ -1,5 +1,8 @@
 **This is a fork of "Bots'n'Scouts" by @hsteller**
 
+*Due to the amount of code and the number of classes, I will only mark the lines I added/modified/deleted.*
+
+
 # botsnscouts
 Tried to migrate our ancient sourceforge CVS repo to git(hub) from <br>
 https://sourceforge.net/projects/botsnscouts/ <br>
